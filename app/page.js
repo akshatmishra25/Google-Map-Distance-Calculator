@@ -5,7 +5,7 @@ import { AiOutlinePlusCircle } from 'react-icons/ai';
 import button from './assets/location-pin.png';
 import originIcon from './assets/OriginIcon.png';
 import destinationIcon from './assets/DestinationIcon.png';
-import GravitiLogo from './assets/Graviti-Logo.png';
+import GravitiLogo from './assets/Graviti-logo.png';
 import Image from 'next/image';
 
 export default function Home() {
