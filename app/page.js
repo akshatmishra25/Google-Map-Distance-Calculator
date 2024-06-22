@@ -87,7 +87,7 @@ export default function Home() {
     <div className="min-h-screen bg-gray-100 flex justify-center">
       
       <div className="container flex flex-col items-center">
-        <p className="text-xl text-blue-900 my-8">Let's calculate <span className='font-bold'>distance</span> from Google maps</p>
+        <p className="text-xl text-blue-900 my-8">Let&apos;s calculate <span className='font-bold'>distance</span> from Google maps</p>
         <div className="flex flex-col-reverse sm:flex-row w-full items-center justify-around">
           <div className="flex flex-col space-y-4 w-full ml-0 md:ml-16 md:w-5/9 p-4">
            <div className='flex flex-col sm:flex-row'>
